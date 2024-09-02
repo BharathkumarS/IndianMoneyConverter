@@ -1,0 +1,94 @@
+body{
+    background-color:crimson;
+}
+
+#base{
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    background-color: cadetblue;
+    height: 300px;
+    width: 400px;
+
+    padding: 10px;
+    
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+#three{
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    left: 90px;
+
+    height: 30px;
+    width: 190px;
+
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+#hello{
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    right: 110px;
+
+    height: 50px;
+    width: 190px;
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+
+    padding: 8px;
+
+    font-weight: bold;
+}
+
+#one{
+    display: block;
+    position: relative;
+    top: 130px;
+    right: 10px;
+
+    height: 40px;
+    width: 90px;
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+
+    color: blue;
+
+}
+
+#two{
+    display: inline-block;
+    position: relative;
+    top:130px ;
+    right: 10px;
+
+    background-color: azure;
+    width: 60px;
+    height: 20px;
+
+    padding: 5px;
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+
+
+}
